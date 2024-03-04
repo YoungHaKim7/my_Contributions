@@ -15,7 +15,6 @@
 <hr>
 
 - code fix(Rust)
-  - [ ] todo!
   - iced(Rust)
     - [ ] example__ visible_bounds_fix #2118 (내가 실수한거임. ㅠㅠ)
       - https://github.com/iced-rs/iced/pull/2118  
