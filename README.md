@@ -1,14 +1,21 @@
 # my_Contributions
 
 
+<hr>
+
 # Code Contributions
 - examples
   - persus
+
+<hr>
+
 - code fix
   - [ ] todo!
 
 
-# Issue Contributions(bug reports)
+<hr>
+
+# Issues Contributions(bug reports)
 - zed
   - [vim] I usually use ctrl-y when I do autocomplete on Neovim, but I don't think it's possible to do it on zed. #8707
     - https://github.com/zed-industries/zed/issues/8707
