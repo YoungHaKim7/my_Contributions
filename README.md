@@ -6,12 +6,12 @@
 # Code Contributions
 - examples(Rust)
   - persus
-  - [ ] tailwindcss - plugins (Add Examples) #301(thilwindcs는 상업용이라 빠꾸 먹음 ㅋㅋ)
-     - https://github.com/framesurge/perseus/pull/301
+    - [ ] tailwindcss - plugins (Add Examples) #301(thilwindcs는 상업용이라 빠꾸 먹음 ㅋㅋ)
+      - https://github.com/framesurge/perseus/pull/301
 
 
   - macroquad-text
-    - Kr example Add #5
+    -[ ] Kr example Add #5
       - https://github.com/Ricky12Awesome/macroquad-text/pull/5
 
 <hr>
