@@ -7,6 +7,11 @@
 - examples(Rust)
   - persus
 
+
+  - macroquad-text
+    - Kr example Add #5
+      - https://github.com/Ricky12Awesome/macroquad-text/pull/5
+
 <hr>
 
 - code fix(Rust)
