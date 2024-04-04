@@ -41,5 +41,5 @@
     - https://github.com/zed-industries/zed/issues/8729
 
 - shuttle(Rust)
-  - [x] example__ visible_bounds_fix #2118
-    - https://github.com/iced-rs/iced/pull/2118
+  - [x] [Bug]: cargo shuttle run(openssl-sys) does not detect the correct path for the cargo executable #1103 
+    - https://github.com/shuttle-hq/shuttle/issues/1103
