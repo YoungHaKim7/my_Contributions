@@ -50,3 +50,7 @@
 
 - (240505)Convenient way to transform struct with Cow-fields to owned
   - https://stackoverflow.com/questions/42155212/convenient-way-to-transform-struct-with-cow-fields-to-owned/78431757#78431757
+ 
+- (240505)How to manipulate an instance of a mutable struct in Rust - ownership woes
+  - https://stackoverflow.com/questions/71444348/how-to-manipulate-an-instance-of-a-mutable-struct-in-rust-ownership-woes/78431834#78431834
+ 
