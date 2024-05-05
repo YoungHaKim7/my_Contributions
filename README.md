@@ -47,3 +47,6 @@
 
 - (240505)Fn & FnMut & FnOnce(활용법)
   - https://stackoverflow.com/questions/66788842/storing-the-return-value-from-an-fn-closure/78431065#78431065
+
+- (240505)Convenient way to transform struct with Cow-fields to owned
+  - https://stackoverflow.com/questions/42155212/convenient-way-to-transform-struct-with-cow-fields-to-owned/78431757#78431757
