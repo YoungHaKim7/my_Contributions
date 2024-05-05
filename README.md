@@ -53,4 +53,6 @@
  
 - (240505)How to manipulate an instance of a mutable struct in Rust - ownership woes
   - https://stackoverflow.com/questions/71444348/how-to-manipulate-an-instance-of-a-mutable-struct-in-rust-ownership-woes/78431834#78431834
- 
+
+- (240505)How can I ensure that generic argument types are different?
+  - https://stackoverflow.com/questions/78431709/how-can-i-ensure-that-generic-argument-types-are-different/78432024#78432024
