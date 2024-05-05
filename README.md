@@ -42,8 +42,8 @@
 
 # StackOverFlow 질문 답변
 
-- 240310정확하지는 않지만 일단 제출(된게 어디냐...)
+- (240310)정확하지는 않지만 일단 제출(된게 어디냐...)
   - https://stackoverflow.com/questions/63737115/im-having-difficulty-understanding-how-to-implement-a-task-scheduler-using-cros/78136260#78136260
 
-- Fn & FnMut & FnOnce(활용법)
+- (240505)Fn & FnMut & FnOnce(활용법)
   - https://stackoverflow.com/questions/66788842/storing-the-return-value-from-an-fn-closure/78431065#78431065
