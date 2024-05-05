@@ -27,11 +27,6 @@
 
 <hr>
 
-# StackOverFlow 질문 답변
-
-- 240310정확하지는 않지만 일단 제출(된게 어디냐...)
-  - https://stackoverflow.com/questions/63737115/im-having-difficulty-understanding-how-to-implement-a-task-scheduler-using-cros/78136260#78136260
-
 # Issues Contributions(bug reports)
 - zed(Rust)
   - [x] [vim] I usually use ctrl-y when I do autocomplete on Neovim, but I don't think it's possible to do it on zed. #8707
@@ -43,3 +38,12 @@
 - shuttle(Rust)
   - [x] [Bug]: cargo shuttle run(openssl-sys) does not detect the correct path for the cargo executable #1103 
     - https://github.com/shuttle-hq/shuttle/issues/1103
+
+
+# StackOverFlow 질문 답변
+
+- 240310정확하지는 않지만 일단 제출(된게 어디냐...)
+  - https://stackoverflow.com/questions/63737115/im-having-difficulty-understanding-how-to-implement-a-task-scheduler-using-cros/78136260#78136260
+
+- Fn & FnMut & FnOnce(활용법)
+  - https://stackoverflow.com/questions/66788842/storing-the-return-value-from-an-fn-closure/78431065#78431065
