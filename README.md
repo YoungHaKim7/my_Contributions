@@ -8,6 +8,11 @@
 <hr>
 
 # Code Contributions
+- 내가 만든 러스트 라이브러리(crates.io)
+  - https://crates.io/crates/fprice
+
+<hr>
+
 - examples(Rust)
   - persus
     - [ ] tailwindcss - plugins (Add Examples) #301(tailwindcss는 상업용이라 빠꾸 먹음 ㅋㅋ)
