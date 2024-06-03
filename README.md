@@ -9,7 +9,8 @@
 
 # Code Contributions
 - 내가 만든 러스트 라이브러리(crates.io)
-  - https://crates.io/crates/fprice
+  - 3자리 숫자마다 콤마(,) 찍어주는 api(돈 표시 눈에 잘보이기 하기)
+    - https://crates.io/crates/fprice
 
 <hr>
 
