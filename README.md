@@ -47,6 +47,9 @@
   - [x] [Bug]: cargo shuttle run(openssl-sys) does not detect the correct path for the cargo executable #1103 
     - https://github.com/shuttle-hq/shuttle/issues/1103
 
+- Rust Bevy Game Engine
+  - Helix키(Vim키로 세팅하고 쓰는법)
+    - https://github.com/bevy-cheatbook/bevy-cheatbook/issues/232 
 
 # StackOverFlow 질문 답변
 
