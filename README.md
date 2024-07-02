@@ -67,3 +67,8 @@
 
 - (240505답변 만족 스럽지 않아 삭제함-더 공부하자(x)How can I ensure that generic argument types are different?(x)
   - https://stackoverflow.com/questions/78431709/how-can-i-ensure-that-generic-argument-types-are-different/78432024#78432024
+
+# 러스트 Rust_Game dev. Tutorial 제작중.
+- Rust_Game_Dev
+  - https://youtube.com/playlist?list=PLcMveqN_07mY5cEcTgC4ICHnla6LSVtnh&si=VDjZDqS2JUDTwfIe
+    - github https://github.com/YoungHaKim7/Rust_Bevy_Game_Engine
