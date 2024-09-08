@@ -72,3 +72,6 @@
 - Rust_Game_Dev
   - https://youtube.com/playlist?list=PLcMveqN_07mY5cEcTgC4ICHnla6LSVtnh&si=VDjZDqS2JUDTwfIe
     - github https://github.com/YoungHaKim7/Rust_Bevy_Game_Engine
+
+# Rust Leptos(WASM) Tutorial
+- https://github.com/YoungHaKim7/Rust_Leptos_FullStack
