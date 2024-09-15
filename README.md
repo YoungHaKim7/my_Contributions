@@ -11,6 +11,8 @@
 - 내가 만든 러스트 라이브러리(crates.io)
   - 3자리 숫자마다 콤마(,) 찍어주는 api(돈 표시 눈에 잘보이기 하기)
     - https://crates.io/crates/fprice
+      - 2번째 버젼
+        - https://crates.io/crates/fprice2
   - 컴퓨터 시계만으로 우리나라 및 다른 나라 시간 구현하기
     - https://crates.io/crates/com_local_time
 
