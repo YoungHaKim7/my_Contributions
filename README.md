@@ -72,7 +72,8 @@
 
 # Rust Tutorial 제작중.
 - Rust_Game_Dev
-  - https://youtube.com/playlist?list=PLcMveqN_07mY5cEcTgC4ICHnla6LSVtnh&si=VDjZDqS2JUDTwfIe
+  - (영상모아보기) https://youtube.com/playlist?list=PLcMveqN_07mY5cEcTgC4ICHnla6LSVtnh&si=VDjZDqS2JUDTwfIe
     - github https://github.com/YoungHaKim7/Rust_Bevy_Game_Engine
 - Rust Leptos(WASM) Tutorial
-  - https://github.com/YoungHaKim7/Rust_Leptos_FullStack
+  - (영상모아보기) [Rust_Leptos기초_Tutorial](https://youtube.com/playlist?list=PLcMveqN_07ma1Wv7pWF02UURgLjew97ZC&si=uuVsvn3fYxpYe22A)
+    - github code https://github.com/YoungHaKim7/Rust_Leptos_FullStack
