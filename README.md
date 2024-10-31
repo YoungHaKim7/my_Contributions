@@ -18,7 +18,7 @@
 
 - 옛날 러스트 코드 현재버젼으로 업그레이드중
   - Rust1.82에 되는 rtail
-    - https://github.com/YoungHaKim7/tail_rs
+    - https://github.com/YoungHaKim7/rtail
 
 <hr>
 
