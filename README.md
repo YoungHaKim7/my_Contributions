@@ -19,8 +19,12 @@
 - 옛날 러스트 코드 현재버젼으로 업그레이드중
   - Rust1.82에 되는 rtail
     - [x] https://github.com/YoungHaKim7/rtail
+  
+- 다른 사람이 만들거 한번 더 연습
+  - curl을 러스트 코드로
+    - [x] https://github.com/YoungHaKim7/rurl
 
-<hr>
+<hr />
 
 - examples(Rust)
   - persus
