@@ -4,3 +4,6 @@
     - https://github.com/lapce/floem/issues/611
 - neovide
   - 실행할때 창크기 지정됨 답변 추가로 달아줌. https://github.com/neovide/neovide/pull/1706
+
+- firefox
+  - 업데이트 이후 선이 너무 굵어지는거 보고함 https://webcompat.com/issues/144593
