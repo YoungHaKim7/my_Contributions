@@ -87,3 +87,6 @@
     - github code https://github.com/YoungHaKim7/Rust_Leptos_FullStack
 - Rust_C++_Vulkan
   - (영상모아보기) [Rust_C++_Vulkan](https://youtube.com/playlist?list=PLcMveqN_07mYLlQ72z9uktIcWF0kNLGxB&si=IGQWHOVAcwWxj803) 
+
+- Rust총정리
+  - https://younghakim7.github.io/rust_kr/
