@@ -7,6 +7,9 @@
 
 <hr>
 
+# Rust 컴파일에 기여하는 방법
+- https://rustc-dev-guide.rust-lang.org/contributing.html#writing-documentation
+
 # Code Contributions
 - 내가 만든 러스트 라이브러리(crates.io)
   - 3자리 숫자마다 콤마(,) 찍어주는 api(돈 표시 눈에 잘보이기 하기)
