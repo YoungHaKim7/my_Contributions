@@ -6,6 +6,7 @@
   - 실행할때 창크기 지정됨 답변 추가로 달아줌. https://github.com/neovide/neovide/pull/1706
 
 - firefox
-  - [ ] (맥에서 했으나 동일한 증상)업데이트 이후 선이 너무 굵어지는거 보고함 https://webcompat.com/issues/144593
+  - [x] (맥에서 했으나 동일한 증상)업데이트 이후 선이 너무 굵어지는거 보고함 https://webcompat.com/issues/144593
     - https://github.com/webcompat/web-bugs/issues/144593#issuecomment-2511342606
+      - Firefox 133.0.3(64-bi) 버젼업하면서 해결한듯
 
