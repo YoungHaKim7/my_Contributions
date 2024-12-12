@@ -11,4 +11,4 @@
       - Firefox 133.0.3(64-bi) 버젼업하면서 해결한듯
 
 - 유튜브에서 러스트로 까는거 댓글로 이겨주기 ㅋㅋ
-  - [C++ vs Rust Speed Comparison | Mial Skywalker](https://youtu.be/t06fisE78TQ?si=F7A5ueqig-RWInEo)
+  - [240921C++ vs Rust Speed Comparison | Mial Skywalker](https://youtu.be/t06fisE78TQ?si=F7A5ueqig-RWInEo)
