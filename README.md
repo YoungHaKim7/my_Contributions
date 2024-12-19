@@ -32,7 +32,7 @@
 - examples(Rust)
   - SDL3
     - [x] 예문 삼각형 만들기 추가 https://github.com/revmischa/sdl3-rs/pull/56
-    - [ ] spinning cube 회전하는 큐브 https://github.com/revmischa/sdl3-rs/pull/59
+    - [ ] (난중에 코드 정렬해서 수정해야함)spinning cube 회전하는 큐브 https://github.com/revmischa/sdl3-rs/pull/59
  
   - persus
     - [ ] tailwindcss - plugins (Add Examples) #301(tailwindcss는 상업용이라 빠꾸 먹음 ㅋㅋ)
