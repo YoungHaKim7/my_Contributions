@@ -31,10 +31,10 @@
 
 - examples(Rust)
   - SDL3
-    - [x] 예문 삼각형 만들기 추가 https://github.com/revmischa/sdl3-rs/pull/56
-    - [ ] (난중에 코드 정렬해서 수정해야함)spinning cube 회전하는 큐브 https://github.com/revmischa/sdl3-rs/pull/59
-      - 이걸로 정렬해서 수정 예정 다음 기여할때 수정할 예정_struct위에 derive공백 하나 없애야함 ㅠㅠ 다음 기여때.. https://github.com/YoungHaKim7/SDL3_Rust_Game_Training/blob/main/02_Rust_Lang_SDL3/spinning_cube/src/main.rs
-    - [ ] renderer시리즈 하고 있음. https://github.com/revmischa/sdl3-rs/pull/63 
+    - [x] 예문 삼각형 만들기 추가 https://github.com/revmischa/sdl3-rs/pull/56 
+    - [x] renderer시리즈 시작(예재2개) 있음. https://github.com/revmischa/sdl3-rs/pull/63 
+    - [ ] renderer시리즈(10개 추가) sdl3-sys 업데이트 문제로 이상 불가능함
+      - [ ] sdl3-sys 기여해야함.. 점점 난이도 올라간다 ㅜㅜ
  
   - persus
     - [ ] tailwindcss - plugins (Add Examples) #301(tailwindcss는 상업용이라 빠꾸 먹음 ㅋㅋ)
