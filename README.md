@@ -33,8 +33,9 @@
   - SDL3
     - [x] 예문 삼각형 만들기 추가 https://github.com/revmischa/sdl3-rs/pull/56 
     - [x] renderer시리즈 시작(예재2개) 있음. https://github.com/revmischa/sdl3-rs/pull/63 
-    - [ ] renderer시리즈(10개 추가) sdl3-sys 업데이트 문제로 이상 불가능함
-      - [ ] sdl3-sys 기여해야함.. 점점 난이도 올라간다 ㅜㅜ
+    - [x] renderer시리즈(10개 추가) https://github.com/revmischa/sdl3-rs/pull/70
+    - [ ] sdl3-sys 업데이트 문제로 이상 불가능함
+      - [ ] [sdl3-sys 기여해야함](https://github.com/maia-s/sdl3-sys-rs/tree/main/sdl3-main).. 점점 난이도 올라간다 ㅜㅜ
  
   - persus
     - [ ] tailwindcss - plugins (Add Examples) #301(tailwindcss는 상업용이라 빠꾸 먹음 ㅋㅋ)
