@@ -11,6 +11,11 @@
 - https://rustc-dev-guide.rust-lang.org/contributing.html#writing-documentation
 
 # Code Contributions
+
+- zed
+  - zed(crate중 gpui 예시 자료가 무한루프에 빠져서 잘 종료 되지 않는거 코드기여함)
+    - https://github.com/zed-industries/zed/pull/26701 
+
 - 내가 만든 러스트 라이브러리(crates.io)
   - 3자리 숫자마다 콤마(,) 찍어주는 api(돈 표시 눈에 잘보이기 하기)
     - https://crates.io/crates/fprice
