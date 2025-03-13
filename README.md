@@ -98,5 +98,8 @@
 - Rust_C++_Vulkan
   - (영상모아보기) [Rust_C++_Vulkan](https://youtube.com/playlist?list=PLcMveqN_07mYLlQ72z9uktIcWF0kNLGxB&si=IGQWHOVAcwWxj803) 
 
+- Rust_GUI
+  - (영상모아보기) [Rust_GUI](https://youtube.com/playlist?list=PLcMveqN_07maE4SmyCX5v_QUZami6Pm6t&si=tUyWjXcfmWKzskLG)
+
 - Rust총정리
   - https://younghakim7.github.io/rust_kr/
