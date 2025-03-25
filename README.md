@@ -24,6 +24,8 @@
   - 컴퓨터 시계만으로 우리나라 및 다른 나라 시간 구현하기
     - https://crates.io/crates/com_local_time
 
+<hr />
+
 - 옛날 러스트 코드 현재버젼으로 업그레이드중
   - Rust1.82에 되는 rtail
     - [x] https://github.com/YoungHaKim7/rtail
