@@ -12,6 +12,11 @@
 
 # Code Contributions
 
+- sdl3-rs
+  - https://github.com/vhspace/sdl3-rs/graphs/contributors
+  - YoungHaKim7
+  - 기여함
+
 - zed
   - zed(crate중 gpui 예시 자료가 무한루프에 빠져서 잘 종료 되지 않는거 코드기여함)
     - https://github.com/zed-industries/zed/pull/26701 
