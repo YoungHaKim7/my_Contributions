@@ -7,7 +7,7 @@
 
 <hr>
 
-# Rust 컴파일에 기여하는 방법
+# Rust 컴파일러(rustc)에 기여하는 방법
 - https://rustc-dev-guide.rust-lang.org/contributing.html#writing-documentation
 
 # Code Contributions
