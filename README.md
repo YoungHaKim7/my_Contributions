@@ -119,3 +119,6 @@
 
 - Rust총정리
   - https://younghakim7.github.io/rust_kr/
+
+- 러스트(Rust) 개발자를 위한 C언어 기초(C23)
+  - https://github.com/YoungHaKim7/C_Programming_Kernigan_and_Ritchie
