@@ -42,6 +42,7 @@
 - 다른 사람이 만들거 한번 더 연습
   - curl을 러스트 코드로
     - [x] https://github.com/YoungHaKim7/rurl
+    - [x] https://github.com/YoungHaKim7/obsessive_peek
 
 <hr />
 
