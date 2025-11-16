@@ -17,6 +17,10 @@
 - Arc Vector
   - https://github.com/YoungHaKim7/arc_vec
 
+# Rust개발을 도와주는 도구(Development tools, Command line utilities, Build Utils)
+- 러스트 프로젝트에 주로 쓰는 기능들 justfile로 빠르게 만들어 주기
+  - https://crates.io/crates/justrs
+
 # Code Contributions
 
 - sdl3-rs
